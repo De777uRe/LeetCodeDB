@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "LeetCodeDB", "LeetCodeDB\LeetCodeDB.sqlproj", "{28F6007F-19AD-4EB3-B36C-2D6BA2CA2DA7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3EBC7A4E-CEF5-4FD3-8C78-A30C6B80C09B}"
+	ProjectSection(SolutionItems) = preProject
+		BigCountries.sql = BigCountries.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
